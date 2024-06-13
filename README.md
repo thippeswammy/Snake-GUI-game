@@ -17,5 +17,5 @@ The main technique you're using in this Java code is building a simple Snake gam
 
 Overall, the combination of Swing for GUI, custom painting, event handling, game logic, timers, and randomization forms the foundation of your Snake game implementation.
 
-# output:
+# Output:
 ![snake game - Made with Clipchamp](https://github.com/thippeswammy/SnakeGUI/assets/73697198/35d862e5-0382-452f-8423-a39708b0ebf6)
