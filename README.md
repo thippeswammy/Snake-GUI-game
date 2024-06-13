@@ -16,3 +16,6 @@ The main technique you're using in this Java code is building a simple Snake gam
 6. **Randomization**: You utilize `java.util.Random` to generate random positions for the apples in the game.
 
 Overall, the combination of Swing for GUI, custom painting, event handling, game logic, timers, and randomization forms the foundation of your Snake game implementation.
+
+# output:
+![snake game - Made with Clipchamp](https://github.com/thippeswammy/SnakeGUI/assets/73697198/35d862e5-0382-452f-8423-a39708b0ebf6)
